@@ -42,7 +42,11 @@ npm install
 # Run the development server
 ng serve
 ```
+
+---
+
 ## 📁 Project Structure
+```bash
 src/
 ├── app/
 │   ├── @core/         # Core services, guards, interceptors
@@ -52,6 +56,9 @@ src/
 │   └── app.config.ts  # App configuration with provideRouter, provideHttpClient...
 ├── assets/
 ├── environments/
+```
+
+---
 
 ## 🧠 Learning Goals
 Deepen understanding of Angular 20 features: Signals, Control Flow, Standalone APIs
@@ -61,6 +68,8 @@ Practice component-driven development with PrimeNG 20
 Simulate real team workflows: Git, commits, tasks, and refactors
 
 Improve design implementation with Tailwind and modern patterns****
+
+---
 
 ## 📆 7-Day Sprint Plan
 This project follows a 7-day simulated sprint. Each day focuses on practical, hands-on tasks covering both Angular and PrimeNG.
