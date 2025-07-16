@@ -83,12 +83,16 @@ This project follows a 7-day simulated sprint. Each day focuses on practical, ha
 
  Setup folder structure: @core, @shared, features
 
+---
+
 ⏳ Day 2: Authentication UI
  Create login page using PrimeNG form components
 
  Add form validation and error messages
 
  Create basic auth service (mock)
+
+---
 
 ⏳ Day 3: Users Module
  Add users-list page using p-table
@@ -97,12 +101,16 @@ This project follows a 7-day simulated sprint. Each day focuses on practical, ha
 
  Use custom cell templates (status color, name as link)
 
+---
+
 ⏳ Day 4: Add/Edit User
  Create add-user form using Reactive Forms
 
  Use p-dropdown, p-inputText, etc.
 
  Show validation errors (custom component)
+
+---
 
 ⏳ Day 5: Models Module
  Create models-list like users
@@ -111,6 +119,8 @@ This project follows a 7-day simulated sprint. Each day focuses on practical, ha
 
  Reuse components between features
 
+---
+
 ⏳ Day 6: Shared Components & Services
  Extract shared button, input, error component
 
@@ -118,12 +128,16 @@ This project follows a 7-day simulated sprint. Each day focuses on practical, ha
 
  Organize services under @core
 
+---
+
 ⏳ Day 7: Polish & Review
  Add loading states, empty states
 
  Refactor duplicated code
 
  Push final version, write PR description
+
+---
 
 ## 💡 Notes
 This is a self-driven learning environment. Tasks are added incrementally, simulating a realistic development sprint.
